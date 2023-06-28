@@ -1,6 +1,6 @@
 # Surprise Housing
 
-###Final Outcome
+### Final Outcome
 The company wants to know:
 
 Which variables are significant in predicting the price of a house, and
